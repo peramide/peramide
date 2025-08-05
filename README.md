@@ -14,7 +14,7 @@
   <summary>🧠 About Me</summary>
 
   - 🎓 First Class Graduate of **Industrial Chemistry**, University of Ibadan  
-  - 🧾 Completed **Harvard CS50x** (Computer Science for Engineers)  
+  - 🧾 **Harvard CS50x** trained Programmer and Computer Scientist.  
   - 🔬 Passionate about merging **AI/ML** with **Chemistry**, especially for **drug discovery**  
   - 🧠 Currently doing a 100-days coding for AI/ML with the eventual goal of applicating to Chemistry  
   - 🚀 Exploring how ML models can accelerate **natural product research**  
