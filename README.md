@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Peter 👋</h1>
 
 <p align="center">
-  💼 <strong>Industrial Chemistry (First Class) • CS50x Certified</strong><br>
+  💼 <strong>Industrial Chemistry (First Class) • CS50x Trained</strong><br>
   🤖 Python/AI/ML Enthusiast | 🧪 Chemistry Educator | 💊 Drug Discovery Explorer<br>
   🎯 Currently on <strong>100 Days of Code</strong> (AI/ML for Chemistry)
 </p>
@@ -16,7 +16,7 @@
   - 🎓 First Class Graduate of **Industrial Chemistry**, University of Ibadan  
   - 🧾 Completed **Harvard CS50x** (Computer Science for Engineers)  
   - 🔬 Passionate about merging **AI/ML** with **Chemistry**, especially for **drug discovery**  
-  - 🧠 Currently learning Python-based AI tools for chemistry applications  
+  - 🧠 Currently doing a 100-days coding for AI/ML with the eventual goal of applicating to Chemistry  
   - 🚀 Exploring how ML models can accelerate **natural product research**  
   - 🎯 Goal: Build intelligent platforms for modern chemistry innovation  
 </details>
@@ -37,17 +37,6 @@
 
 ---
 
-<details>
-  <summary>📈 GitHub Stats</summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AjiboduPeter&show_icons=true&theme=react" alt="Peter's GitHub stats" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjiboduPeter&theme=react" alt="GitHub Streak" />
-  </p>
-</details>
-
----
 
 <details>
   <summary>📺 YouTube Channel</summary>
@@ -55,7 +44,7 @@
   <p>
     I also teach Chemistry on YouTube!<br>
     📚 Visit 👉 <a href="https://youtube.com/@peter_academy" target="_blank"><strong>@peter_academy</strong></a><br>
-    🎥 Content: Organic Chemistry, Reaction Mechanisms, Exam Prep & more!
+   
   </p>
 </details>
 
